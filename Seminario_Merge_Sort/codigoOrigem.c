@@ -59,7 +59,7 @@ void mergeSort(int vetor[], int comeco, int fim)
 
 int main (void)
 {
-    int i, ini, fim, tempo, *vetMs;
+    int i, ini, fim, *vetMs;
     int v[8] = { -1, 7, -3, 11, 4, -2, 4, 8 };
     printf("\nAntes da ordenacao: ");
     for(i = 0; i<8;i++){
