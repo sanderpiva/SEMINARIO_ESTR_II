@@ -62,7 +62,7 @@ int main (void)
     int i=0;
     int v[8] = { -1, 7, -3, 11, 4, -2, 4, 8 };
     printf("\nAntes da ordenacao: ");
-    for(i = 0; i<8;i++){
+    for(i = 0; i < 8; i++){
 
         printf("%d ", v[i]);
     }
